@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **salman37560@gmail.com**
 
-- ⚡ Fun fact **I'm 6'1" tall and left-handed — that puts me in the rare 1% of the world! 😎🖐️**
+- ⚡ Fun fact **I'm 6'1 and left-handed — that puts me in the rare 1% of the world! 😎🖐️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
