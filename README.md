@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 314px; margin: 0px; width: 558px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 600px; height: 314px; margin: 0px; width: 558px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numaan28&label=Profile%20views&color=0e75b6&style=flat" alt="numaan28" /> </p>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
