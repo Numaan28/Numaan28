@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A passionate developer from India</h3>
+<
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numaankhan28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salman37560@gmail.com) 
 
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 600px; height: 314px; margin: 0px; width: 558px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=numaan28&label=Profile%20views&color=0e75b6&style=flat" alt="numaan28" /> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Numaan28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Numaan28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numaan28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Numaan28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **salman37560@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I'm 6'1 and left-handed — that puts me in the rare 1% of the world! 😎🖐️**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Numaan28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itsnumaann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsnumaann" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Numaan28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numaan28&show_icons=true&locale=en&layout=compact" alt="numaan28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=numaan28&show_icons=true&locale=en" alt="numaan28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=numaan28&" alt="numaan28" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
