@@ -1,5 +1,5 @@
 # 💫 Hi 👋,I'M salman aka numaan khan
-A aspiring data scientist || coder || from India ❤️‍🩹
+A Coder From India
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numaankhan28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salman37560@gmail.com) 
 <div align="center">
